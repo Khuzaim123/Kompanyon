@@ -1,0 +1,12 @@
+D:/Programing/Flutter/Task/kompanyon/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/Programing/Flutter/Task/kompanyon/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/Programing/Flutter/Task/kompanyon/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/Programing/Flutter/Task/kompanyon/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+D:/Programing/Flutter/Task/kompanyon/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/Programing/Flutter/Task/kompanyon/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/Programing/Flutter/Task/kompanyon/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/Programing/Flutter/Task/kompanyon/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/Programing/Flutter/Task/kompanyon/build/windows/x64/runner/Debug/data/flutter_assets/NativeAssetsManifest.json
+D:/Programing/Flutter/Task/kompanyon/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+D:/Programing/Flutter/Task/kompanyon/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/Programing/Flutter/Task/kompanyon/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
